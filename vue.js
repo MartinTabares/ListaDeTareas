@@ -2,15 +2,15 @@ var data = {
     titulo: 'Lista de Tareas',
     nuevaTarea: '',
     tareas: [{
-            objetivo: 'Trabajar en Silstech',
+            objetivo: 'Correr',
             terminada: false
         },
         {
-            objetivo: 'Cambiar el auto',
+            objetivo: 'Lavar el auto',
             terminada: false
         },
         {
-            objetivo: 'Agrandar la casa',
+            objetivo: 'Estudiar',
             terminada: false
         }
     ]
